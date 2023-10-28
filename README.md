@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Tech Stack-5C2D91?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/:-5C2D91?style=for-the-badge&logo=&logoColor=white" />
   
+  <br>
+
   <!--- Languages --->
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -35,23 +37,6 @@
 
 </p>
 
-```javascript
-// about_me_and_tools_I_use 
-import Software Developer from 'nqbill';
-
-class Bio extends Me {
-  name     = 'Fahrudin Mohamad';
-  title    = 'Student';
-  location = 'Bandung, ID';
-}
-
-class Skills extends JuniorDeveloper {
-  languages  = ['JavaScript', 'Typescript', 'Java', 'PHP', 'Python', 'CSS', 'HTML'];
-  databases  = ['MySQL', 'MongoDB', 'MariaDB'];
-  frameworks = ['Vue JS', 'React JS', 'Bootstrap', 'Tailwind', 'Laravel'];
-  mysoftware = ['Visual Studio Code']
-}
-```
 
 <hr></hr>
 
