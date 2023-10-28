@@ -10,12 +10,13 @@
 
 <p align="left">
   
-  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange" />
-  <img src="https://img.shields.io/badge/-%3A-orange" />
+  <img src="https://img.shields.io/badge/Tech Stack-5C2D91?style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/:-5C2D91?style=for-the-badge&logo=&logoColor=white" />
   
   <!--- Languages --->
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   
@@ -35,7 +36,7 @@
 
 ```javascript
 // about_me_and_tools_I_use 
-import JuniorDeveloper from 'nqbill';
+import Software Developer from 'nqbill';
 
 class Bio extends Me {
   name     = 'Fahrudin Mohamad';
