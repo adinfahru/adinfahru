@@ -2,10 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=5000&center=true&width=5000&height=500&lines=Hello+<guys/>!;I'm+nqbill" />
-<img src="https://github.com/nqbill/nqbill/blob/main/src/img/me.gif" width="250px" height = "250px" alt="me" />
-
-<a href="https://www.instagram.com/biilll.e"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/instagram.png" alt="instagram" /> &nbsp;
+<a href="https://www.instagram.com/adinfahru_"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/instagram.png" alt="instagram" /> &nbsp;
 <a href="https://twitter.com/nqbill"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/twitter.png" alt="twitter" /> &nbsp;
 <a href="mailto:foooeadonly@gmail.com"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/google-plus.png" alt="gmail" /> &nbsp;
 <a href="https://t.me/nqbill"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/telegram.png" alt="telegram" /> &nbsp;
