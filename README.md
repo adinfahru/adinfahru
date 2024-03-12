@@ -54,7 +54,6 @@
 <br>
 
 <div align="center" >
-<a href="https://github.com/nqbill">
     
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adinfahru&theme=nord_bright" width="32.5%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adinfahru&theme=nord_bright" width="32.5%">
