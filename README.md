@@ -7,7 +7,7 @@
 </div>
 
 <p>
- I'm a third year student at Telkom University, pursuing a major in Information System. This academic background has provided me with a solid foundation in understanding the intricate workings of software development and its impact on businesses. I am passionate about frontend developing. I love to think about problem solving and developing ideas based on user experience. Therefore, I often carry out social, research and academic projects, take online courses, participate in competitions and participate in various activities that help improve skills and knowledge.
+Full(stuck) developer but i am passionate about frontend and mobile developing. I love to think about problem solving and developing ideas based on user experience, and sometimes build a mini project
 </p>
 
 <hr></hr>
