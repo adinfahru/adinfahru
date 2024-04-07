@@ -7,7 +7,7 @@
 </div>
 
 <p>
-Full(stuck) developer but i am passionate about frontend and mobile developing. I love to think about problem solving and developing ideas based on user experience, and sometimes build a mini project
+I'm a full-stuck developer, but I'm more passionate about frontend and mobile development. I enjoy problem-solving and creating user-centric solutions, occasionally working on mini projects to explore new ideas.
 </p>
 
 <hr></hr>
