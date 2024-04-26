@@ -1,7 +1,6 @@
-# Hello! 
-# I'm Fahrudin Mohamad
+## Hello! I'm Fahrudin Mohamad
 
-## I'm a full-stuck developer, but I'm more passionate about frontend and mobile development. I enjoy problem-solving and creating user-centric solutions, occasionally working on mini projects to explore new ideas.
+I'm a full-stuck developer, but I'm more passionate about frontend and mobile development. I enjoy problem-solving and creating user-centric solutions, occasionally working on mini projects to explore new ideas.
 
 
 <hr></hr>
