@@ -2,7 +2,8 @@
 
 <br>
 
-<p><strong> Hello! I'm Fahrudin Mohamad
+#Hello! 
+#I'm Fahrudin Mohamad
  
 </div>
 
