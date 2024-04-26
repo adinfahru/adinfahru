@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-AEB2D5?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-AEB2D5?style=for-the-badge&logo=php&logoColor=black" />
 </p>
 
 <div align="center" >
