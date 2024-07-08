@@ -23,6 +23,6 @@
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=adinfahru&show_icons=true&locale=en&layout=compact)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adinfahru&theme=nord_bright" width="37%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adinfahru&theme=nord_bright" width="33%">
 
 <br>
