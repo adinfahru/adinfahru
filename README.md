@@ -1,18 +1,10 @@
-<div align="center">
+## Hello👋 I'm Fahrudin Mohamad
 
-<br>
-
-<p><strong> Hello! I'm Fahrudin Mohamad
- 
-</div>
-
-<hr></hr>
+<p> I'm a full-stuck developer, but I'm more passionate about frontend and mobile development. I enjoy problem-solving and creating user-centric solutions, occasionally working on mini projects to explore new ideas.</p>
 
 <p align="left">
-  
   <img src="https://img.shields.io/badge/Tech Stack-5C2D91?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/:-5C2D91?style=for-the-badge&logo=&logoColor=white" />
-  
   <br>
 
   <div align="left">
