@@ -1,6 +1,6 @@
-## Hello👋 I'm Fahrudin Mohamad
+## Hello👋 I'm Fahru
 
-<p> I'm a full-stuck developer, but I'm more passionate about frontend and mobile development. I enjoy problem-solving and creating user-centric solutions, occasionally working on mini projects to explore new ideas.</p>
+<p> I'm a full-stack developer, but I'm more passionate about frontend development</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/I've Learn-5C2D91?style=for-the-badge&logo=&logoColor=white" />
