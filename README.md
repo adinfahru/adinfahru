@@ -1,6 +1,6 @@
 ## Hello👋 I'm Fahru
 
-<p> I'm a full-stack developer</p>
+<p> I'm a full-stuck developer</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/I've Learn-5C2D91?style=for-the-badge&logo=&logoColor=white" />
