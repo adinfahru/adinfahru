@@ -9,7 +9,7 @@
 
   <div align="left">
     <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,python,php,dart,kotlin" /> <br>
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,express,laravel,flutter,compose"/> <br>
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,express,laravel,flutter,jetpack"/> <br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap"/> <br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres"/> <br>
     <img src="https://skillicons.dev/icons?i=gherkin,selenium,cypress"/>
