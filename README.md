@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,python,php,dart" /> <br>
     <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,express,laravel,flutter"/> <br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap"/> <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres"/> <br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase"/> <br>
     <img src="https://skillicons.dev/icons?i=gherkin,selenium,cypress"/>
 </div>
 
