@@ -32,7 +32,7 @@
 ## Stats
 <p align="left">
   <a href="https://github.com/adinfahru">
-    <img height="180em" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adinfahru&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000">
+    <img height="180em" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adinfahru&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&bg_color=00000000">
   </a>
 </p>
 <br>
