@@ -3,9 +3,9 @@
 <p>I'm a passionate web developer with a frontend background, currently focusing on backend development to grow as a fullstack developer</p>
 <p>
   <ul>
-    <li>How to reach me: mohamad.fahrudin18gmail.com<li>
-    <li>My personal website : https://adinfahru.vercel.app<li>
-  <ul> 
+    <li>How to reach me: mohamad.fahrudin18gmail.com</li>
+    <li>My personal website : https://adinfahru.vercel.app</li>
+    </ul> 
 </p>
 
 <p align="left">
