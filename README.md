@@ -1,6 +1,7 @@
 ## Hello👋 I'm Fahru
 
-<p>I'm a passionate web developer with a frontend background, currently focusing on backend development to grow as a fullstack developer</p>
+<p>Passionate web developer with a frontend background, currently focusing on backend development to grow as a fullstack developer</p>
+<p>also have experience as a QA Engineer Intern, working on web automation</p>
 <p>
   <ul>
     <li>How to reach me: mohamad.fahrudin18gmail.com</li>
