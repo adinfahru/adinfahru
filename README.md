@@ -29,8 +29,6 @@
   </div>
 </p>
 
-<hr></hr>
-
 ## Stats
 
 <br/>
