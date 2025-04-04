@@ -1,10 +1,12 @@
 ## Hello👋 I'm Fahru
 
-<p>I'm a passionate web developer with a frontend background, currently focusing on backend development to grow as a fullstack developer.</p>
+<p>I'm a passionate web developer with a frontend background, currently focusing on backend development to grow as a fullstack developer</p>
 <p>
-  <ul>How to reach me: mohamad.fahrudin18gmail.com<ul>
-  <ul>My personal website : https://adinfahru.vercel.app<ul> 
-</p>
+  <ul>
+    <li>How to reach me: mohamad.fahrudin18gmail.com<li>
+    <li>My personal website : https://adinfahru.vercel.app<li>
+  <ul> 
+</p
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focusing On-5C2D91?style=for-the-badge&logo=&logoColor=white" />
