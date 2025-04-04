@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Focusing On-5C2D91?style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Currently Mastering-5C2D91?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/:-5C2D91?style=for-the-badge&logo=&logoColor=white" />
   <br>
   <div align="left">
