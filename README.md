@@ -6,7 +6,7 @@
     <li>How to reach me: mohamad.fahrudin18gmail.com<li>
     <li>My personal website : https://adinfahru.vercel.app<li>
   <ul> 
-</p
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focusing On-5C2D91?style=for-the-badge&logo=&logoColor=white" />
