@@ -36,8 +36,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/adinfahru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adinfahru&show_icons=true&theme=algolia" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nadialvy&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adinfahru&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adinfahru&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 <br>
