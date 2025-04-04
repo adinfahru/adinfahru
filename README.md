@@ -20,8 +20,8 @@
   <br>
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,python,php,dart,go" /> <br>
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,express,laravel,flutter,gin"/> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,php,dart" /> <br>
+    <img src="https://skillicons.dev/icons?i=django,express,laravel,flutter"/> <br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap"/> <br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase"/> <br>
     <img src="https://skillicons.dev/icons?i=gherkin,selenium,cypress"/>
