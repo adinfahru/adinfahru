@@ -1,6 +1,7 @@
 ## Hello👋 I'm Fahru
 
-<p> I'm a full-stuck developer</p>
+<p>I'm a web developer who started out in frontend and now diving into backend to become a fullstack developer!.</p>
+<p>How to reach me: mohamad.fahrudin18gmail.com <br> My personal website : https://adinfahru.vercel.app </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focusing On-5C2D91?style=for-the-badge&logo=&logoColor=white" />
