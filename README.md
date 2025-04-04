@@ -8,6 +8,8 @@
     </ul> 
 </p>
 
+<br>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Focusing On-5C2D91?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/:-5C2D91?style=for-the-badge&logo=&logoColor=white" />
@@ -19,6 +21,8 @@
   </div>
 
 </p>
+
+<br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/I've Learn-5C2D91?style=for-the-badge&logo=&logoColor=white" />
