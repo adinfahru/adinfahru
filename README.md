@@ -3,17 +3,29 @@
 <p> I'm a full-stuck developer</p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Focusing On-5C2D91?style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/:-5C2D91?style=for-the-badge&logo=&logoColor=white" />
+  <br>
+
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=js,typescript,go" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,gin"/> <br>
+  </div>
+
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/I've Learn-5C2D91?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/:-5C2D91?style=for-the-badge&logo=&logoColor=white" />
   <br>
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,python,php,dart" /> <br>
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,express,laravel,flutter"/> <br>
+    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,python,php,dart,go" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,express,laravel,flutter,gin"/> <br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap"/> <br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase"/> <br>
     <img src="https://skillicons.dev/icons?i=gherkin,selenium,cypress"/>
-</div>
+  </div>
 
 </p>
 
