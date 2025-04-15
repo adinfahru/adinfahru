@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/:-5C2D91?style=for-the-badge&logo=&logoColor=white" />
   <br>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=js,typescript,go" /> <br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,gin"/> <br>
+    <img src="https://skillicons.dev/icons?i=js,typescript,go,react,nextjs" /> <br>
+<!--     <img src="https://skillicons.dev/icons?i=react,nextjs"/> <br> -->
   </div>
 </p>
 <br>
