@@ -24,8 +24,8 @@
   <br>
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,php,dart,django,express,laravel,flutter" /> <br>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,postgres,firebase, gherkin,selenium,cypress" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,php,dart,django,express,laravel,flutter" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,postgres,firebase,gherkin,selenium,cypress" /> <br>
   </div>
 </p>
 
