@@ -4,7 +4,7 @@
 <p>
   <ul>
     <li>How to reach me: mohamad.fahrudin18gmail.com</li>
-    <li>My personal website : https://adinfahru.vercel.app</li>
+    <li>My personal website : https://mohamadfahrudin.vercel.app</li>
     </ul> 
 </p>
 <br>
