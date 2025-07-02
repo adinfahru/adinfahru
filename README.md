@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Fahru
 
-I'm a passionate Software Engineer currently focused on backend development, with the goal of becoming a fullstack developer. I also have experience as a QA Engineer Intern, working on web automation testing.
+I'm a passionate Software Engineer currently focused on fullstack development.
 
 ### 📬 How to reach me
 - Email: mohamad.fahrudin18@gmail.com
