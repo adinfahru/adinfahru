@@ -1,38 +1,28 @@
-## Hello 👋 I'm Fahru
+## 👋 Hi, I'm Fahru
 
-I'm a passionate Software Engineer currently focused on fullstack development.
+I'm a passionate **Software Engineer** with a strong interest in fullstack web development, system design, and clean code. Currently, I focus on building scalable web applications and exploring backend performance optimization.
 
-### 📬 How to reach me
-- Email: mohamad.fahrudin18@gmail.com
-- Personal Website: [mohamadfahrudin.vercel.app](https://mohamadfahrudin.vercel.app)
+### 📫 Let's Connect
 
----
-
-<!-- ### 🚀 Currently Mastering
-<img src="https://img.shields.io/badge/Currently Mastering-5C2D91?style=for-the-badge&logoColor=white" />
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,go,react,nextjs" />
-</p>
+- 📧 Email: [mohamad.fahrudin18@gmail.com](mailto:mohamad.fahrudin18@gmail.com)  
+- 🌐 Website: [mohamadfahrudin.vercel.app](https://mohamadfahrudin.vercel.app)
 
 ---
--->
 
-### 📚 I've Learned
-<img src="https://img.shields.io/badge/I've Learned-5C2D91?style=for-the-badge&logoColor=white" />
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php" /><br>
-  <img src="https://skillicons.dev/icons?i=react,next,laravel,express,django,mysql,postgres" /><br>
+<!-- Core Skills -->
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php" />
+  <img src="https://skillicons.dev/icons?i=react,next,laravel,express,django" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" />
 </p>
 
 ---
 
-## 📊 Stats
+### 📈 GitHub & LeetCode Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinfahru&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&bg_color=00000000" />
   <img height="180em" src="https://leetcard.jacoblin.cool/adinfahru?theme=catppuccinMocha&font=PT%20Mono" />
 </p>
-
