@@ -8,7 +8,7 @@ I'm a passionate Software Engineer currently focused on fullstack development.
 
 ---
 
-// ### 🚀 Currently Mastering
+<!-- ### 🚀 Currently Mastering
 <img src="https://img.shields.io/badge/Currently Mastering-5C2D91?style=for-the-badge&logoColor=white" />
 
 <p align="left">
@@ -16,6 +16,7 @@ I'm a passionate Software Engineer currently focused on fullstack development.
 </p>
 
 ---
+-->
 
 ### 📚 I've Learned
 <img src="https://img.shields.io/badge/I've Learned-5C2D91?style=for-the-badge&logoColor=white" />
