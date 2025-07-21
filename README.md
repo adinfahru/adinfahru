@@ -24,7 +24,7 @@ I'm a passionate Software Engineer currently focused on fullstack development.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,php" /><br>
   <img src="https://skillicons.dev/icons?i=react,next,laravel,express,django,mysql,postgres" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" />
 </p>
 
 ---
