@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Fahru
 
-I'm a passionate **Software Engineer** with a strong interest in fullstack web development, system design, and clean code. Currently, I focus on building scalable web applications and exploring backend performance optimization.
+I'm a passionate **Software Engineer** with a strong interest in fullstack web development. Currently, I focus on building scalable web applications and exploring backend performance optimization.
 
 ### 📫 Let's Connect
 
