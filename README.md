@@ -22,7 +22,7 @@ I'm a passionate Software Engineer currently focused on fullstack development.
 <img src="https://img.shields.io/badge/I've Learned-5C2D91?style=for-the-badge&logoColor=white" />
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,php" /><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php" /><br>
   <img src="https://skillicons.dev/icons?i=react,next,laravel,express,django,mysql,postgres" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
