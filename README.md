@@ -9,7 +9,7 @@ I'm a passionate **Software Engineer** with a strong interest in fullstack web d
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ I've Learn
 
 <!-- Core Skills -->
 <p>
