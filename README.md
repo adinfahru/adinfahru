@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Fahru
 
-I'm a passionate **Software Engineer** with a strong interest in fullstack web development. Currently, I focus on building scalable web applications and exploring backend performance optimization.
-
+I'm a passionate **Software Engineer** with a strong interest in fullstack web development.
 ### 📫 Let's Connect
 
 - 📧 Email: [mohamad.fahrudin18@gmail.com](mailto:mohamad.fahrudin18@gmail.com)  
