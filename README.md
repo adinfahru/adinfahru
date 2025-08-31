@@ -19,9 +19,9 @@ I'm a passionate **Software Engineer** with a strong interest in fullstack web d
 
 ---
 
-### 📈 GitHub & LeetCode Stats
+### 📈 GitHub 
 
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinfahru&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&bg_color=00000000" />
-  <img height="180em" src="https://eetcard.jacoblin.cool/hellofahru?theme=catppuccinMocha&font=PT%20Mono" />
+  <img height="180em" src="https://#eetcard.jacoblin.cool/hellofahru?theme=catppuccinMocha&font=PT%20Mono" />
 </p>
