@@ -11,10 +11,10 @@ I'm a passionate **Software Engineer** with a strong interest in fullstack web d
 ### 🛠️ I've Learn
 
 <!-- Core Skills -->
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go"/>
-  <img src="https://skillicons.dev/icons?i=react,next,laravel,express,django" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,redis" />
+<p width="100" height="100">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go"/> <br>
+  <img src="https://skillicons.dev/icons?i=react,next,laravel,express,django" /> <br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,redis,docker,googlecloud" />
 </p>
 
 ---
