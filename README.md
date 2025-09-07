@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Fahru
 
-I'm a passionate **Software Engineer** with a strong interest in fullstack web development. Currently working on Go + PostgreSQL.
+I'm a passionate **Software Engineer** with a strong interest in fullstack web development. Currently working on Go.
 ### 📫 Let's Connect
 
 - 📧 Email: [mohamad.fahrudin18@gmail.com](mailto:mohamad.fahrudin18@gmail.com)  
