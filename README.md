@@ -30,8 +30,9 @@ I'm a passionate **Software Engineer** with a strong interest in fullstack web d
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0ea5e9?style=flat&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<!-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+-->
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
