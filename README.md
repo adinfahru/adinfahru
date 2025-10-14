@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Fahru
 
-I'm a passionate **Software Engineer** with a strong interest in fullstack web development. Currently working on Go.
+I’m a passionate Software Engineer who loves building stuff end-to-end — from crafting slick frontends to architecting powerful backends.
 ### 📫 Let's Connect
 
 - 📧 Email: [mohamad.fahrudin18@gmail.com](mailto:mohamad.fahrudin18@gmail.com)  
@@ -11,17 +11,18 @@ I'm a passionate **Software Engineer** with a strong interest in fullstack web d
 ## Tech Stacks
 
 ### 🧩 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=c-sharp&logoColor=white)
 
 ### 🛠️ Frameworks 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=green)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
