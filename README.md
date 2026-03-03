@@ -1,7 +1,6 @@
-## 👋 Hi, I'm Fahru
+## Hi, I'm Fahru
 
-I’m a passionate Software Engineer who loves building stuff end-to-end — from crafting slick frontends to architecting powerful backends.
-### 📫 Let's Connect
+Software Engineer | Backend & Data | Cloud Enthusiast
 
 - 📧 Email: [mohamad.fahrudin18@gmail.com](mailto:mohamad.fahrudin18@gmail.com)  
 - 🌐 Website: [mohamadfahrudin.vercel.app](https://mohamadfahrudin.vercel.app)
@@ -39,6 +38,7 @@ I’m a passionate Software Engineer who loves building stuff end-to-end — fro
 ![Gherkin](https://img.shields.io/badge/Gherkin-8CC84B?style=flat&logo=cucumber&logoColor=white)
 
 ---
+
 
 ### 📈 GitHub 
 
